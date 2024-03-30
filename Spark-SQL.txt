@@ -31,7 +31,7 @@ patientDf.registerTempTable("patient_spark")
 
 import spark.implicits._
 val columns = Seq("sno","name")
-val data = Seq(("1", "gowtham"),
+val data = Seq(("1", "divithraju"),
     ("2", "saran"),
     ("3", "rahul")
   )
