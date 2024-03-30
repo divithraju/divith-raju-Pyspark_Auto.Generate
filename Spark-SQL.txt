@@ -146,10 +146,10 @@ import spark.implicits._
 
 val columns = Seq("Name","Role","Salary")
 
-val data = Seq(("gowtham", "Developer","125000"),
-("saravana","Developer","108000"),
-("raghul","Developer","185000"),
-("mike","Developer","98000"),
+val data = Seq(("divithraju", "Developer","125000"),
+("deppa","Developer","108000"),
+("yamini","Developer","185000"),
+("like","Developer","98000"),
 ("peter","Developer","144000"),
 ("kumar","Developer","110000"),
 ("rose","Tester","70000"),
